@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+</head>
+    <meta charset="UTF-8">
+    <meta name= "viewpoint"
+    content="width=device-width",
+    initial-scale="1.0">
+    <title>Diving Deeper Exercise</title>
+</head>
+</body>
+    </header>
+        <h1>Main heading</h1>
+        
+    </heaeder>
+    <main>
+          <section>
+            <h2>Subheading 1</h2>
+            <p><b>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, earum? Delectus fugit molestias sit corrupti voluptas? Omnis eos, quas esse ut nostrum aut doloremque. Eaque architecto maxime doloribus facere sequi?</b></p>
+          </section>
+          <section>
+            <h2>Subheading</h2>
+            <p><i>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat maxime nisi ipsum repellendus asperiores omnis nihil mollitia ad! Dolorem temporibus neque dolore doloribus ducimus sequi quod quaerat laborum totam sapiente.</i></p>
+          </section>
+          <h1>id="main heading"</h1>
+          <section>
+          <a href="Diving-Deeper-Exercise"></a> 
+    </main>
+</body>
+
+
+
+
+
+
+
+</html>
